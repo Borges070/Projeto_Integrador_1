@@ -1,5 +1,5 @@
 # Projeto Integrador I - CIVITAS
-1. VISÃO GERAL
+VISÃO GERAL
 O projeto consiste no desenvolvimento de uma plataforma dedicada à organização e transparência de dados do Poder Legislativo. O sistema monitora Projetos de Lei e o desempenho dos políticos envolvidos, visando reduzir as barreiras de acesso à informação e dar maior visibilidade às atividades parlamentares no Brasil.
 
 2. Metodologia e Ferramentas
