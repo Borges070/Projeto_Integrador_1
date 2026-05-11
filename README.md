@@ -1,5 +1,5 @@
 # Projeto Integrador I - CIVITAS
-O objetivo é desenvolver uma plataforma que organiza dados públicos relacionados a Projetos de Lei e aos políticos associados à eles, com o objetivo de trazer acessibilidade ao acompanhamento da política legislativa brasileira, aumentando a transparência e visibilidade do dia a dia da política.
+O projeto consiste no desenvolvimento de uma plataforma dedicada à organização e transparência de dados do Poder Legislativo. O sistema monitora Projetos de Lei e o desempenho dos políticos envolvidos, visando reduzir as barreiras de acesso à informação e dar maior visibilidade às atividades parlamentares no Brasil
 
 *Coleta automatizada de dados públicos:* 
 
