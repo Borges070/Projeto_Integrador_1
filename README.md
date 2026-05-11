@@ -38,4 +38,5 @@ Responsividade: Estrutura preparada para adaptação mobile, incluindo menus de 
 O wireframe completo e as interações podem ser visualizados através do link oficial do projeto.
 
 Link: Legislative Tracking Dashboard
+
 Senha de acesso: civitas
