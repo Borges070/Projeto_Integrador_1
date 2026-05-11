@@ -40,3 +40,10 @@ O wireframe completo e as interações podem ser visualizados através do link o
 Link: Legislative Tracking Dashboard
 
 Senha de acesso: civitas
+
+# Alunos Envolvidos
+- Lucas Borges
+- Pedro Calderón
+- Pedro Quartin
+- Issac Lovisi
+- Artur Teles
