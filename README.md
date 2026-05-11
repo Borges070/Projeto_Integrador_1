@@ -7,27 +7,27 @@ O projeto consiste no desenvolvimento de uma plataforma dedicada à organizaçã
 A ferramenta Figma foi utilizada para a concepção de todos os wireframes e fluxos de navegação. O design segue um padrão profissional com foco em usabilidade, utilizando uma paleta de cores institucional (predomínio de tons de azul e cinza) e componentes de interface modernos.
 
 # Arquitetura de Telas e Fluxos
-O protótipo é composto por um fluxo de 7 telas principais interconectadas:
+- O protótipo é composto por um fluxo de 7 telas principais interconectadas:
 
-Landing Page Educacional (/): Conteúdo focado em scrollytelling para explicar o sistema eleitoral e o processo legislativo brasileiro.
+- Landing Page Educacional (/): Conteúdo focado em scrollytelling para explicar o sistema eleitoral e o processo legislativo brasileiro.
 
-Módulo de Autenticação (/auth): Interface de login e cadastro com integração para Google e Gov.br.
+- Módulo de Autenticação (/auth): Interface de login e cadastro com integração para Google e Gov.br.
 
-Explorador de Leis (/explorer): Portal de busca de dados públicos com filtros avançados e visualização em grade de cards.
+- Explorador de Leis (/explorer): Portal de busca de dados públicos com filtros avançados e visualização em grade de cards.
 
-Dashboard da Proposta (/dashboard): Painel de detalhes de um projeto de lei, incluindo:
+- Dashboard da Proposta (/dashboard): Painel de detalhes de um projeto de lei, incluindo:
 
-Gráfico de semicírculo (plenário) representando a votação.
+- Gráfico de semicírculo (plenário) representando a votação.
 
-Linha do tempo da tramitação.
+- Linha do tempo da tramitação.
 
-Visualizador de documentos com comparação de versões (diff).
+- Visualizador de documentos com comparação de versões (diff).
 
-Identificação de autor e relator.
+- Identificação de autor e relator.
 
-Perfil do Político (/politician/:id): Central de indicadores (KPIs), histórico de votações, gráficos de orçamento e grade de assiduidade.
+- Perfil do Político (/politician/:id): Central de indicadores (KPIs), histórico de votações, gráficos de orçamento e grade de assiduidade.
 
-Páginas de Partidos e Comissões: Dashboards específicos para visualizar a agenda de comissões, membros e estatísticas partidárias.
+- Páginas de Partidos e Comissões: Dashboards específicos para visualizar a agenda de comissões, membros e estatísticas partidárias.
 
 # Implementações Técnicas de UX
 Navegação Integrada: O sistema permite navegar entre o dashboard de uma lei e o perfil de um parlamentar clicando diretamente nos assentos do plenário ou nos nomes de autores/relatores.
