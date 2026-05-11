@@ -1,10 +1,10 @@
 # PROJETO INTEGRADOR I - CIVITAS
 
 # Visao Geral
-O projeto consiste no desenvolvimento de uma plataforma dedicada à organização e transparência de dados do Poder Legislativo. O sistema monitora Projetos de Lei e o desempenho dos políticos envolvidos, visando reduzir as barreiras de acesso à informação e dar maior visibilidade às atividades parlamentares no Brasil.
+- O projeto consiste no desenvolvimento de uma plataforma dedicada à organização e transparência de dados do Poder Legislativo. O sistema monitora Projetos de Lei e o desempenho dos políticos envolvidos, visando reduzir as barreiras de acesso à informação e dar maior visibilidade às atividades parlamentares no Brasil.
 
 # Metodologia e Ferramentas
-A ferramenta Figma foi utilizada para a concepção de todos os wireframes e fluxos de navegação. O design segue um padrão profissional com foco em usabilidade, utilizando uma paleta de cores institucional (predomínio de tons de azul e cinza) e componentes de interface modernos.
+- A ferramenta Figma foi utilizada para a concepção de todos os wireframes e fluxos de navegação. O design segue um padrão profissional com foco em usabilidade, utilizando uma paleta de cores institucional (predomínio de tons de azul e cinza) e componentes de interface modernos.
 
 # Arquitetura de Telas e Fluxos
 - O protótipo é composto por um fluxo de 7 telas principais interconectadas:
@@ -30,16 +30,16 @@ A ferramenta Figma foi utilizada para a concepção de todos os wireframes e flu
 - Páginas de Partidos e Comissões: Dashboards específicos para visualizar a agenda de comissões, membros e estatísticas partidárias.
 
 # Implementações Técnicas de UX
-Navegação Integrada: O sistema permite navegar entre o dashboard de uma lei e o perfil de um parlamentar clicando diretamente nos assentos do plenário ou nos nomes de autores/relatores.
+- Navegação Integrada: O sistema permite navegar entre o dashboard de uma lei e o perfil de um parlamentar clicando diretamente nos assentos do plenário ou nos nomes de autores/relatores.
 Visualização de Dados: Implementação de tooltips avançados no mapa do plenário, exibindo prévias de perfil (foto, partido e voto) ao passar o mouse.
 Responsividade: Estrutura preparada para adaptação mobile, incluindo menus de navegação simplificados.
 
 # Acesso ao Protótipo
-O wireframe completo e as interações podem ser visualizados através do link oficial do projeto.
+- O wireframe completo e as interações podem ser visualizados através do link oficial do projeto.
 
-Link: Legislative Tracking Dashboard
+- Link: Legislative Tracking Dashboard
 
-Senha de acesso: civitas
+- Senha de acesso: civitas
 
 # Alunos Envolvidos
 - Lucas Borges
