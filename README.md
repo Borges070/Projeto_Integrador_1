@@ -1,11 +1,11 @@
 # Projeto Integrador I - CIVITAS
-# VISÃO GERAL
+# visao geral
 O projeto consiste no desenvolvimento de uma plataforma dedicada à organização e transparência de dados do Poder Legislativo. O sistema monitora Projetos de Lei e o desempenho dos políticos envolvidos, visando reduzir as barreiras de acesso à informação e dar maior visibilidade às atividades parlamentares no Brasil.
 
-2. Metodologia e Ferramentas
+# Metodologia e Ferramentas
 A ferramenta Figma foi utilizada para a concepção de todos os wireframes e fluxos de navegação. O design segue um padrão profissional com foco em usabilidade, utilizando uma paleta de cores institucional (predomínio de tons de azul e cinza) e componentes de interface modernos.
 
-3. Arquitetura de Telas e Fluxos
+# Arquitetura de Telas e Fluxos
 O protótipo é composto por um fluxo de 7 telas principais interconectadas:
 
 Landing Page Educacional (/): Conteúdo focado em scrollytelling para explicar o sistema eleitoral e o processo legislativo brasileiro.
@@ -28,11 +28,12 @@ Perfil do Político (/politician/:id): Central de indicadores (KPIs), histórico
 
 Páginas de Partidos e Comissões: Dashboards específicos para visualizar a agenda de comissões, membros e estatísticas partidárias.
 
-4. Implementações Técnicas de UX
+# Implementações Técnicas de UX
 Navegação Integrada: O sistema permite navegar entre o dashboard de uma lei e o perfil de um parlamentar clicando diretamente nos assentos do plenário ou nos nomes de autores/relatores.
 Visualização de Dados: Implementação de tooltips avançados no mapa do plenário, exibindo prévias de perfil (foto, partido e voto) ao passar o mouse.
 Responsividade: Estrutura preparada para adaptação mobile, incluindo menus de navegação simplificados.
-5. Acesso ao Protótipo
+
+# Acesso ao Protótipo
 O wireframe completo e as interações podem ser visualizados através do link oficial do projeto.
 
 Link: Legislative Tracking Dashboard
