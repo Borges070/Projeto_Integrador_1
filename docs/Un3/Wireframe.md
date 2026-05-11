@@ -1,0 +1,41 @@
+Este documento detalha o desenvolvimento do protótipo de alta fidelidade para o sistema **Civitas**, uma plataforma de acompanhamento legislativo e transparência de dados.
+
+# Documentação Técnica: Protótipo de Interface Civitas
+
+## 1. Visão Geral
+
+O projeto consistiu na criação de uma interface funcional e intuitiva para o monitoramento de propostas legislativas, perfis de parlamentares e estruturas partidárias. O foco central foi transformar dados complexos (legislativo e OSINT) em visualizações compreensíveis para o usuário final.
+
+## 2. Metodologia e Ferramentas
+
+A ferramenta **Figma** foi utilizada para a concepção de todos os wireframes e fluxos de navegação. O design segue um padrão profissional com foco em usabilidade, utilizando uma paleta de cores institucional (predomínio de tons de azul e cinza) e componentes de interface modernos.
+
+## 3. Arquitetura de Telas e Fluxos
+
+O protótipo é composto por um fluxo de 7 telas principais interconectadas:
+
+* **Landing Page Educacional (`/`):** Conteúdo focado em *scrollytelling* para explicar o sistema eleitoral e o processo legislativo brasileiro.
+* **Módulo de Autenticação (`/auth`):** Interface de login e cadastro com integração para Google e Gov.br.
+* **Explorador de Leis (`/explorer`):** Portal de busca de dados públicos com filtros avançados e visualização em grade de cards.
+* **Dashboard da Proposta (`/dashboard`):** Painel de detalhes de um projeto de lei, incluindo:
+* Gráfico de semicírculo (plenário) representando a votação.
+* Linha do tempo da tramitação.
+* Visualizador de documentos com comparação de versões (*diff*).
+* Identificação de autor e relator.
+
+
+* **Perfil do Político (`/politician/:id`):** Central de indicadores (KPIs), histórico de votações, gráficos de orçamento e grade de assiduidade.
+* **Páginas de Partidos e Comissões:** Dashboards específicos para visualizar a agenda de comissões, membros e estatísticas partidárias.
+
+## 4. Implementações Técnicas de UX
+
+* **Navegação Integrada:** O sistema permite navegar entre o dashboard de uma lei e o perfil de um parlamentar clicando diretamente nos assentos do plenário ou nos nomes de autores/relatores.
+* **Visualização de Dados:** Implementação de *tooltips* avançados no mapa do plenário, exibindo prévias de perfil (foto, partido e voto) ao passar o mouse.
+* **Responsividade:** Estrutura preparada para adaptação mobile, incluindo menus de navegação simplificados.
+
+## 5. Acesso ao Protótipo
+
+O wireframe completo e as interações podem ser visualizados através do link oficial do projeto.
+
+* **Link:** [Legislative Tracking Dashboard](https://www.figma.com/make/0PxVMdAUDyXOsOsaXOG6LH/Legislative-Tracking-Dashboard?p=f&t=jiSuTGmbfpWq1FlW-0&fullscreen=1)
+* **Senha de acesso:** `civitas`
