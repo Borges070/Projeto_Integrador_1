@@ -1,6 +1,5 @@
-# Visibilidade e Transparência para as votações dos Projetos de Lei
-
-Civitas é uma plataforma que organiza os dados públicos relacionados aos Projetos de Lei e aos políticos associados à eles, com o objetivo de trazer acessibilidade ao acompanhamento da política legislativa brasileira, aumentando a transparência e visibilidade do dia a dia da política.
+# Projeto Integrador 1 - CIVITAS
+Civitas é um projeto que busca criar uma plataforma que organiza dados públicos relacionados a Projetos de Lei e aos políticos associados à eles, com o objetivo de trazer acessibilidade ao acompanhamento da política legislativa brasileira, aumentando a transparência e visibilidade do dia a dia da política.
 
 *Coleta automatizada de dados públicos:* 
 
