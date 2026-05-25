@@ -1,6 +1,6 @@
 # PROJETO INTEGRADOR I - CIVITAS
 
-# Visao Geral
+# Visão Geral
 - O projeto consiste no desenvolvimento de uma plataforma dedicada à organização e transparência de dados do Poder Legislativo. O sistema monitora Projetos de Lei e o desempenho dos políticos envolvidos, visando reduzir as barreiras de acesso à informação e dar maior visibilidade às atividades parlamentares no Brasil.
 
 # Metodologia e Ferramentas
@@ -42,8 +42,11 @@ Responsividade: Estrutura preparada para adaptação mobile, incluindo menus de 
 - Senha de acesso: civitas
 
 # Alunos Envolvidos
-- Lucas Borges
-- Pedro Calderón
-- Pedro Quartin
-- Issac Lovisi
-- Artur Teles
+- [Lucas Borges](github.com/Borges070) - Pesquisador
+- [Pedro Calderón](github.com/pedrocalderon52) - Pesquisador
+- [Pedro Quartin](github.com/phquartin) - Pesquisador
+- [Isaac Lovisi](github.com/IsaacLovisi) - Pesquisador
+- [Artur Teles](github.com/arturjteles) - Pesquisador
+
+- [Miguel Allievi](github.com/MIK2500) - Pesquisador
+- [Heitor Vergueiro] - Consultor Jurídico
