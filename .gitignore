@@ -1,0 +1,7 @@
+ETL/logs/
+*.log
+__pycache__/
+*.pyc
+.venv/
+deputados.db
+ETL/reports/
