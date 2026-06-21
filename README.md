@@ -37,7 +37,7 @@ Responsividade: Estrutura preparada para adaptação mobile, incluindo menus de 
 # Acesso ao Protótipo
 - O wireframe completo e as interações podem ser visualizados através do link oficial do projeto.
 
-- Link: Legislative Tracking Dashboard
+- Link: [Legislative Tracking Dashboard](https://www.figma.com/make/0PxVMdAUDyXOsOsaXOG6LH/Legislative-Tracking-Dashboard?p=f&fullscreen=1)
 
 - Senha de acesso: civitas
 
