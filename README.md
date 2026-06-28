@@ -41,6 +41,46 @@ Responsividade: Estrutura preparada para adaptação mobile, incluindo menus de 
 
 - Senha de acesso: civitas
 
+# Navegação dos repositórios
+
+├── docs/
+│   ├── Un1/
+│   │   ├── Mapas de empatia/
+│   │   │   ├── MAPA DE EMPATIA - JORNALISTAS E PROFISSIONAIS DE MÍDIA.png
+│   │   │   ├── MAPA DE EMPATIA - ONGS E GRUPOS DE INTERESSE.png
+│   │   │   ├── MAPA DE EMPATIA - PESQUISADOR ACADÊMICO E ANALISTA POLÍTICO.png
+│   │   │   ├── MAPA DE EMPATIA - POLÍTICO E ASSESSOR PARLAMENTAR.png
+│   │   │   └── MAPA_DE_EMPATIA - CIDADÃO.png
+│   │   ├── CANVAS_MVP.png
+│   │   ├── Documento de Visão do Produto.pdf
+│   │   └── VisaoDoProduto-ProejtoCivitas.pdf
+│   ├── Un2/
+│   │   └── Documento de Requisitos - Civitas.pdf
+│   ├── Un3/
+│   │   ├── Documento de Dados - Civitas.pdf
+│   │   ├── LINK_WIREFRAME.MD
+│   │   ├── Modelagem Entidade-Relacionamento - Civitas.pdf
+│   │   └── Wireframe.md
+│   ├── Un4/
+│   │   └── civitas_modulo_4_insights.pdf
+│   └── Un5/
+│       ├── ACE_2026.1_Civitas.pdf
+│       ├── Entrega_Demo_Civitas.md
+│       ├── Pitch_Apresentação.pdf
+│       ├── Relatorio_conformidade_Civitas.pdf
+│       └── Relatorio_Final_CIVITAS.pdf
+├── ETL/
+│   ├── ETL.md
+│   ├── extract.py
+│   ├── gerar_insights.py
+│   ├── load.py
+│   ├── logger_config.py
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── transform.py
+│   └── validators.py
+└── README.md
+
 # Alunos Envolvidos
 - [Lucas Borges](github.com/Borges070) - Pesquisador
 - [Pedro Calderón](github.com/pedrocalderon52) - Pesquisador
