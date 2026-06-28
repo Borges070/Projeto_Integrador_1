@@ -43,14 +43,11 @@ Responsividade: Estrutura preparada para adaptação mobile, incluindo menus de 
 
 # Navegação dos repositórios
 
+```
+.
 ├── docs/
 │   ├── Un1/
 │   │   ├── Mapas de empatia/
-│   │   │   ├── MAPA DE EMPATIA - JORNALISTAS E PROFISSIONAIS DE MÍDIA.png
-│   │   │   ├── MAPA DE EMPATIA - ONGS E GRUPOS DE INTERESSE.png
-│   │   │   ├── MAPA DE EMPATIA - PESQUISADOR ACADÊMICO E ANALISTA POLÍTICO.png
-│   │   │   ├── MAPA DE EMPATIA - POLÍTICO E ASSESSOR PARLAMENTAR.png
-│   │   │   └── MAPA_DE_EMPATIA - CIDADÃO.png
 │   │   ├── CANVAS_MVP.png
 │   │   ├── Documento de Visão do Produto.pdf
 │   │   └── VisaoDoProduto-ProejtoCivitas.pdf
@@ -80,6 +77,7 @@ Responsividade: Estrutura preparada para adaptação mobile, incluindo menus de 
 │   ├── transform.py
 │   └── validators.py
 └── README.md
+```
 
 # Alunos Envolvidos
 - [Lucas Borges](github.com/Borges070) - Pesquisador
