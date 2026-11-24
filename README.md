@@ -1,4 +1,5 @@
 # PROJETO INTEGRADOR I - CIVITAS
+<img width="1393" height="816" alt="Captura de Tela 2026-11-23 às 22 55 50" src="https://github.com/user-attachments/assets/06a80a43-4565-4695-904e-3665e1ef47e9" />
 
 # Visão Geral
 - O projeto consiste no desenvolvimento de uma plataforma dedicada à organização e transparência de dados do Poder Legislativo. O sistema monitora Projetos de Lei e o desempenho dos políticos envolvidos, visando reduzir as barreiras de acesso à informação e dar maior visibilidade às atividades parlamentares no Brasil.
